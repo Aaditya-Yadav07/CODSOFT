@@ -1,3 +1,5 @@
+// simple calculator to perform Arithnatic operations like Addition , Sutraction , Multiiplication , Division.
+
 #include<iostream>
 using namespace std;
 
